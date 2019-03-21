@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="MyWorkflowTutorial Table" language="en" table="x_237223_myworkflo_myworkflowtutorial_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>MyWorkflowTutorial Table</label>
+            <language>en</language>
+            <name>x_237223_myworkflo_myworkflowtutorial_table</name>
+            <plural>MyWorkflowTutorial Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-20 18:08:30</sys_created_on>
+            <sys_id>7eaa5dfddb103300fc201120399619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MyWorkflowTutorial Table</sys_name>
+            <sys_package display_value="MyWorkflowTutorial" source="x_237223_myworkflo">e6aa15b9db103300fc20112039961955</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyWorkflowTutorial">e6aa15b9db103300fc20112039961955</sys_scope>
+            <sys_update_name>sys_documentation_x_237223_myworkflo_myworkflowtutorial_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-20 18:08:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

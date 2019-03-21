@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="MyWorkflowTutorial Table" max_length="40" name="x_237223_myworkflo_myworkflowtutorial_table" type="collection">
+        <element default="none" label="MyOS" max_length="40" name="myos" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
